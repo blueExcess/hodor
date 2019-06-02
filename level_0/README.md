@@ -1,0 +1,3 @@
+# I'm a readme! Hooray! Also this is a script to break the super easy lvl_0. Now to figure out how to add headers...
+
+## haha - also check out someone's calculator writings. Totally not me. 
